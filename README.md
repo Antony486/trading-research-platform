@@ -1,4 +1,6 @@
-# 📈 Trading Research Platform
+git add README.md
+git commit -m "docs: fix README formatting"
+git push origin feature/awesome-readme# 📈 Trading Research Platform
 
 <div align="center">
 
